@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestNG Concepts">
+	<listeners>
+		<listener class-name="utilities.TestNGListeners"></listener>
+	</listeners>
+	<!--  parameter name="email" value="" />
+	<parameter name="pass" value="" />-->
+	<parameter name ="cityName" value = "New York"/>
+	<parameter name = "fName" value ="James"/>
+	<parameter name = "lName" value ="Bond"/>
+	
+	
+	<!-- test name="Parallel Exectuin" parallel = "methods" thread-count = "9"> -->
+	<test name="TestNG Concepts" parallel = "methods" thread-count ="2">
+		<!-- groups> <run> <include name="regression"></include> </run> </groups> -->
+		<classes>
+			<class name ="testNG.concepts.ParametersClass"/>
+			<class name ="testNG.concepts.ParametersExercise"/>
+			<class name = "testNG.concepts.ParallelExecution"/>
+		</classes>
+	</test>
+</suite>
