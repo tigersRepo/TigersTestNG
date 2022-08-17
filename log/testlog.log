@@ -1,0 +1,22 @@
+2022-08-16 17:44:54,348 - logger_File -INFO - Start of Execution
+2022-08-16 17:44:54,364 - logger_File -INFO - Test Execution Started
+2022-08-16 17:44:54,364 - logger_File -INFO - Test Execution Started
+2022-08-16 17:44:58,828 - logger_File -INFO - Test was passed successfully
+2022-08-16 17:44:58,829 - logger_File -INFO - method name: testTwo
+2022-08-16 17:44:58,829 - logger_File -INFO - Test was passed successfully
+2022-08-16 17:44:58,829 - logger_File -INFO - method name: testOne
+2022-08-16 17:44:58,835 - logger_File -INFO - Test Execution Started
+2022-08-16 17:45:01,008 - logger_File -INFO - Test was passed successfully
+2022-08-16 17:45:01,008 - logger_File -INFO - method name: testthree
+2022-08-16 17:45:01,017 - logger_File -INFO - End of Execution
+2022-08-16 18:38:22,195 - logger_File -INFO - Start of Execution
+2022-08-16 18:38:22,214 - logger_File -INFO - Test Execution Started
+2022-08-16 18:38:22,214 - logger_File -INFO - Test Execution Started
+2022-08-16 18:38:22,214 - logger_File -INFO - Test Execution Started
+2022-08-16 18:38:26,553 - logger_File -INFO - Test was passed successfully
+2022-08-16 18:38:26,553 - logger_File -INFO - Test was passed successfully
+2022-08-16 18:38:26,553 - logger_File -INFO - Test was passed successfully
+2022-08-16 18:38:26,553 - logger_File -INFO - method name: testTwo
+2022-08-16 18:38:26,554 - logger_File -INFO - method name: testOne
+2022-08-16 18:38:26,553 - logger_File -INFO - method name: testthree
+2022-08-16 18:38:26,573 - logger_File -INFO - End of Execution

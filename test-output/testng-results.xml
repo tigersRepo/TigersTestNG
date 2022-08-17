@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="373" started-at="2022-08-17T01:28:14Z" finished-at="2022-08-17T01:28:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="373" started-at="2022-08-17T01:28:14Z" finished-at="2022-08-17T01:28:14Z">
+      <class name="testNG.concepts.DataProviderConcept">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testNG.concepts.DataProviderConcept@6107227e]" name="test" duration-ms="6" started-at="2022-08-17T01:28:14Z" data-provider="signInData" finished-at="2022-08-17T01:28:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shark@tekschool.us]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[VA]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[7pm-10pm EST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[May]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testNG.concepts.DataProviderConcept@6107227e]" name="test" duration-ms="0" started-at="2022-08-17T01:28:14Z" data-provider="signInData" finished-at="2022-08-17T01:28:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tigers@tekschool.us]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[987654321]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[VA]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[7pm-10pm EST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[August]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testNG.concepts.DataProviderConcept@6107227e]" name="test" duration-ms="0" started-at="2022-08-17T01:28:14Z" data-provider="signInData" finished-at="2022-08-17T01:28:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[titans@tekschool.us]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[147852369]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CA]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[6pm- 9pm PST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[August]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testNG.concepts.DataProviderConcept@6107227e]" name="test" duration-ms="1" started-at="2022-08-17T01:28:14Z" data-provider="signInData" finished-at="2022-08-17T01:28:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[panthers@tekschool.us]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[258789654]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[VA]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[7pm-10pm EST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[December]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testNG.concepts.DataProviderConcept -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
